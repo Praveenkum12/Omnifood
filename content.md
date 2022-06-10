@@ -16,11 +16,6 @@ Brand color: #e67e22
 
 ### Omnifood features
 
-Never cook again!: Our subscriptions cover 365 days per year, even including major holidays.
-Local and organic: Our cooks only use local, fresh, and organic products to prepare your meals.
-No waste: All our partners only use reusable containers to package all your meals.
-Pause anytime: Going on vacation? Just pause your subscription, and we refund unused days.
-
 ### How Omnifood works
 
 [Show big app images]
@@ -44,8 +39,6 @@ Meal 2:
 Healthy, tasty and hassle-free meals are waiting for you. Start eating well today. You can cancel or pause anytime. And the first meal is on us!
 
 ### We have 2 pricing plans
-
-Prices include all applicable taxes. Users can cancel at any time.
 
 Starter: $399 per month
 
