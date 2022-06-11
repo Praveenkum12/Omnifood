@@ -509,3 +509,87 @@
     background-color: #fdf2e9;
     color: #45260a;
 }
+
+.cta *:focus {
+    outline: none;
+    /* outline: 5px solid #777; */
+    /* outline-offset: 10px; */
+    box-shadow: 0 0 0 0.8rem rgba(253, 242, 233, 0.301);
+}
+
+
+/* FOOTER SECTION */
+
+.footer {
+    padding: 12.8rem 0;
+    border-top: 1px solid #ddd;
+}
+
+.grid-footer {
+    grid-template-columns: 1.5fr 1.5fr 1fr 1fr 1fr;
+}
+
+.footer-logo {
+    margin-bottom: 3.2rem;
+    display: block;
+}
+
+.social-links {
+    list-style: none;
+    display: flex;
+    gap: 2.4rem;
+}
+
+.footer-icon {
+    height: 2.4rem;
+    width: 2.4rem;
+}
+
+.contacts {
+    font-style: normal;
+    font-size: 1.4rem;
+    line-height: 1.6;
+}
+
+.address {
+    font-size: 1.6rem;
+    margin-bottom: 2.4rem;
+}
+
+.footer-heading {
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-bottom: 4rem;
+}
+
+.footer-nav {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2.4rem;
+}
+
+.footer-link:link,
+.footer-link:visited {
+    text-decoration: none;
+    font-size: 1.6rem;
+    color: #767676;
+    transition: all 0.3s;
+}
+
+.footer-link:hover,
+.footer-link:active {
+    color: #555;
+}
+
+.copyright {
+    color: #767676;
+    font-size: 1.4rem;
+    line-height: 1.5;
+    margin-top: auto;
+}
+
+.logo-col {
+    display: flex;
+    flex-direction: column;
+}
