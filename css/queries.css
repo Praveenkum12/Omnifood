@@ -80,6 +80,7 @@
     }
     .cta {
         grid-template-columns: 3fr 2fr;
+        height: auto;
     }
     .cta-form {
         grid-template-columns: 1fr;
